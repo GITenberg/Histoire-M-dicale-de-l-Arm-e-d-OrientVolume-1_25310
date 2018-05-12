@@ -1,0 +1,36 @@
+_repo: Histoire-M-dicale-de-l-Arm-e-d-OrientVolume-1_25310
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Desgenettes, R. (René)
+    aliases:
+    - Desgenettes, René
+    - Desgenettes, R. (Rene)
+    - Dufriche-Desgenettes, René Nicolas, baron
+    birthdate: 1762
+    deathdate: 1837
+    gutenberg_agent_id: '31236'
+    url: http://www.gutenberg.org/2009/agents/31236
+description: ''
+gutenberg_bookshelf:
+- FR Guerres
+- FR Sciences et Techniques
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25310'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée -- Sanitary affairs'
+- !lcsh 'Medicine, Military -- France'
+- !lcsh 'Medical geography -- Egypt'
+- !lcsh 'Egypt -- History -- French occupation, 1798-1801'
+- !lcc 'UH'
+title: Histoire Médicale de l'Armée d'Orient. Volume 1
+url: http://www.gutenberg.org/ebooks/25310
